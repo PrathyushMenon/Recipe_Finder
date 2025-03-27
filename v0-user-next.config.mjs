@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export', // Enable static exports for GitHub Pages
   images: {
     domains: ['spoonacular.com'],
     remotePatterns: [
@@ -9,6 +10,7 @@ const nextConfig = {
         pathname: '**',
       },
     ],
+    unoptimized: true, // Required for static export
   },
 };
 

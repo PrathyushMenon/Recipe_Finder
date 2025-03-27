@@ -1,0 +1,12 @@
+node_modules
+.next
+.git
+.github
+.vscode
+*.md
+.env*
+.eslintrc.js
+jest.config.ts
+jest.setup.ts
+*.log
+
