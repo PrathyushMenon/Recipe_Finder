@@ -46,7 +46,7 @@ export default function ContactPage() {
       <main className="container mx-auto px-4 py-8">
         <div className="max-w-4xl mx-auto mb-10 text-center">
           <h1 className="text-4xl font-bold mb-4">Contact Us</h1>
-          <p className="text-lg text-muted-foreground">Have questions or feedback? We'd love to hear from you!</p>
+          <p className="text-lg text-muted-foreground">Have questions or feedback? We'd love to hear from you! we appriciate tqhe fedback given</p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
